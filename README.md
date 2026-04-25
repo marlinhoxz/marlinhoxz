@@ -17,7 +17,7 @@
 ###
 
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Marlon Lima, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente. Sou apaixonado por tecnologia e sempre busco evoluir profissionalmente de acordo com o Mercado. 
 
