@@ -25,7 +25,8 @@ Me chamo Marlon Lima, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente.
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<div align="center">
+  
 <img 
     align="left" 
     alt="HTML"
@@ -84,6 +85,7 @@ Me chamo Marlon Lima, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente.
 />
 <br/>
 <br/>
+</div>
 
 ### 📊 Estatísticas
 
