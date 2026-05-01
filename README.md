@@ -86,10 +86,10 @@ Me chamo Marlon Lima, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente.
 
 
 <img 
-  align="left" 
+  align="center" 
   alt="GitHub Stats" 
   height="200" 
   src="https://streak-stats.demolab.com?user=marlinhoxz&theme=tokyonight&locale=pt_BR" 
 />
 
-<a align="right" href="https://discord.com/users/1435358972407451690"><img src="https://lanyard.kyrie25.dev/api/1435358972407451690?imgStyle=square" /></a>  
+<a align="center" href="https://discord.com/users/1435358972407451690"><img src="https://lanyard.kyrie25.dev/api/1435358972407451690?imgStyle=square" /></a>  
