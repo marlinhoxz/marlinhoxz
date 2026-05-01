@@ -89,7 +89,7 @@ Me chamo Marlon Lima, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente.
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlinhoxz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+  src="https://streak-stats.demolab.com?user=marlinhoxz&theme=tokyonight&locale=pt_BR" 
 />
 
 </p>
