@@ -1,95 +1,74 @@
-
-<h1 align="center">Marlon Lima</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Marlon%20Lima&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Desenvolvedor%20Front-End&descAlignY=75&descSize=18&descColor=8b949e" width="100%" />
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-
-###
-
-
-**`Desenvolvedor Front-End`**
-
-Me chamo Marlon Lima, tenho 22 anos e sou natural do Rio de Janeiro. Atualmente. Sou apaixonado por tecnologia e sempre busco evoluir profissionalmente de acordo com o Mercado. 
-
-
----
-
-### 🤖 Linguagens e Tecnologias
-<div align="center">
-  
-<img 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 <br/>
-<br/>
+
+![Stars](https://img.shields.io/github/stars/marlinhoxz?style=flat-square&color=8b949e&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/marlinhoxz?style=flat-square&color=8b949e&labelColor=0d1117&label=followers)
+
 </div>
 
-### 📊 Estatísticas
+<br/>
 
-<p>
+## 🧠 Sobre mim
 
+Fala! Me chamo **Marlon**, tenho 22 anos e sou carioca. Sou desenvolvedor front-end apaixonado por transformar interface bagunçada em algo que as pessoas realmente conseguem usar sem xingar o computador.
 
-<img 
-  align="center" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://streak-stats.demolab.com?user=marlinhoxz&theme=tokyonight&locale=pt_BR" 
-/>
+Gosto de deixar cada detalhe redondo — desde a paleta de cores até o `useEffect` que quase virou um loop infinito. Sempre buscando evoluir de acordo com o que o mercado (e a curiosidade) pedem.
 
-<a align="center" href="https://discord.com/users/1435358972407451690"><img src="https://lanyard.kyrie25.dev/api/1435358972407451690?imgStyle=square" /></a>  
+<br/>
+
+## 🔥 Principais Projetos
+
+- 🩺 **Lista de Soros** — App de contagem de medicamentos e controle de soros por sala, porque plantão não perdoa planilha bagunçada.
+- 🧩 **Em construção** — sempre tem algo novo cozinhando no forno; passa aqui de vez em quando.
+
+<br/>
+
+## 🛠️ Linguagens e Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git" height="55" alt="tech stack" />
+</div>
+
+<br/>
+
+## 🔌 Conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="https://github.com/marlinhoxz" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0d1117&logoColor=white&labelColor=0d1117&style=for-the-badge" height="35" alt="github logo" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>Código nunca está pronto. Só fica ligeiramente menos vergonhoso com o tempo.</i>
+<br/>
+<i>Cada commit que eu faço é basicamente um pedido de desculpas antecipado pro meu eu do futuro.</i>
+</div>
+
+<br/>
+
+## 📊 Contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marlinhoxz&theme=tokyonight&locale=pt_BR&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marlinhoxz&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%" />
+
+</div>
