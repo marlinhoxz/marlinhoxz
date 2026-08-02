@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="./assets/banner.png" width="100%" alt="hands reaching" />
+<img src="./assets/banner.png" width="50%" alt="hands reaching" />
 
 </div>
 
