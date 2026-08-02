@@ -67,10 +67,4 @@ Sempre focado em aprender novas ferramentas, resolver problemas reais e acompanh
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marlinhoxz&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="banner footer" />
-</div>
-
 </div>
