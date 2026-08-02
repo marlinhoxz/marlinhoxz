@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Marlon%20Lima&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Desenvolvedor%20Front-End&descAlignY=75&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://camo.githubusercontent.com/155cbc8fb88997ce169b5315c01286ae18e297f7e8303ca67be1d41ef586f526/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7265637426636f6c6f723d306431313137266865696768743d3138302673656374696f6e3d68656164657226746578743d4d61726c6f6e2532304c696d6126666f6e7453697a653d363026666f6e74436f6c6f723d66666666666626666f6e74416c69676e593d353526646573633d446573656e766f6c7665646f7225323046726f6e742d456e642664657363416c69676e593d3735266465736353697a653d31382664657363436f6c6f723d386239343965" width="100%" alt="banner" />
 
 <br/>
 
@@ -21,8 +21,9 @@ Gosto de deixar cada detalhe redondo — desde a paleta de cores até o `useEffe
 
 ## 🔥 Principais Projetos
 
+- 📚 **[Biblioteca de Jogos](https://github.com/marlinhoxz/biblioteca)** — Biblioteca digital para organizar e visualizar sua coleção de jogos. Modo escuro, navegação fluida com Lenis e menu lateral com filtros por categoria. `Next.js 15` · `TypeScript`
+- 💰 **[Projeto Dashboard](https://github.com/marlinhoxz/Projeto-Dashboard)** — Dashboard financeiro com widgets de cartões, transações, orçamento, poupança e empréstimos. Componentizado, com CSS Modules e tipagem forte. `Next.js 16` · `React 19` · `TypeScript`
 - 🩺 **Lista de Soros** — App de contagem de medicamentos e controle de soros por sala, porque plantão não perdoa planilha bagunçada.
-- 🧩 **Em construção** — sempre tem algo novo cozinhando no forno; passa aqui de vez em quando.
 
 <br/>
 
@@ -69,6 +70,8 @@ Gosto de deixar cada detalhe redondo — desde a paleta de cores até o `useEffe
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%" />
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="banner footer" />
+</div>
 
 </div>
