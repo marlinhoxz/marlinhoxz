@@ -12,9 +12,11 @@
 
 ## 🧠 Sobre mim
 
-Fala! Me chamo **Marlon**, tenho 22 anos e sou carioca. Sou desenvolvedor front-end apaixonado por transformar interface bagunçada em algo que as pessoas realmente conseguem usar sem xingar o computador.
+Fala! Sou o Marlon, desenvolvedor Front-End de 22 anos, nascido no Rio de Janeiro.
 
-Gosto de deixar cada detalhe redondo — desde a paleta de cores até o `useEffect` que quase virou um loop infinito. Sempre buscando evoluir de acordo com o que o mercado (e a curiosidade) pedem.
+Sou apaixonado por transformar layouts complexos em interfaces fluidas, responsivas e intuitivas — do tipo que as pessoas usam sem nem perceber o esforço por trás. Cuido de cada detalhe: da harmonia visual e acessibilidade até a otimização de performance e gerenciamento de estado no código.
+
+Sempre focado em aprender novas ferramentas, resolver problemas reais e acompanhar a evolução do ecossistema Web.
 
 <br/>
 
@@ -22,7 +24,7 @@ Gosto de deixar cada detalhe redondo — desde a paleta de cores até o `useEffe
 
 - 📚 **[Biblioteca de Jogos](https://github.com/marlinhoxz/biblioteca)** — Biblioteca digital para organizar e visualizar sua coleção de jogos. Modo escuro, navegação fluida com Lenis e menu lateral com filtros por categoria. `Next.js 15` · `TypeScript`
 - 💰 **[Projeto Dashboard](https://github.com/marlinhoxz/Projeto-Dashboard)** — Dashboard financeiro com widgets de cartões, transações, orçamento, poupança e empréstimos. Componentizado, com CSS Modules e tipagem forte. `Next.js 16` · `React 19` · `TypeScript`
-- 🩺 **Lista de Soros** — App de contagem de medicamentos e controle de soros por sala, porque plantão não perdoa planilha bagunçada.
+
 
 <br/>
 
@@ -50,9 +52,7 @@ Gosto de deixar cada detalhe redondo — desde a paleta de cores até o `useEffe
 <br/>
 
 <div align="center">
-<i>Código nunca está pronto. Só fica ligeiramente menos vergonhoso com o tempo.</i>
-<br/>
-<i>Cada commit que eu faço é basicamente um pedido de desculpas antecipado pro meu eu do futuro.</i>
+<i>Compromisso com código limpo, arquitetura escalável e interfaces acessíveis. Menos complexidade desnecessária, mais valor para o usuário.</i>
 </div>
 
 <br/>
