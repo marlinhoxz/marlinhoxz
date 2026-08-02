@@ -4,8 +4,7 @@
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/marlinhoxz?style=flat-square&color=8b949e&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/marlinhoxz?style=flat-square&color=8b949e&labelColor=0d1117&label=followers)
+<img src="./assets/banner.png" width="100%" alt="hands reaching" />
 
 </div>
 
