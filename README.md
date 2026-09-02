@@ -10,9 +10,9 @@
 
 <br/>
 
-## 🧠 Sobre mim
+##  Sobre mim
 
-Fala! Sou o Marlon, desenvolvedor Front-End de 22 anos, nascido no Rio de Janeiro.
+Fala! Sou o Marlon, desenvolvedor Front-End de 23 anos, nascido no Rio de Janeiro.
 
 Sou apaixonado por transformar layouts complexos em interfaces fluidas, responsivas e intuitivas — do tipo que as pessoas usam sem nem perceber o esforço por trás. Cuido de cada detalhe: da harmonia visual e acessibilidade até a otimização de performance e gerenciamento de estado no código.
 
@@ -20,15 +20,15 @@ Sempre focado em aprender novas ferramentas, resolver problemas reais e acompanh
 
 <br/>
 
-## 🔥 Principais Projetos
+##  Principais Projetos
 
-- 📚 **[Biblioteca de Jogos](https://github.com/marlinhoxz/biblioteca)** — Biblioteca digital para organizar e visualizar sua coleção de jogos. Modo escuro, navegação fluida com Lenis e menu lateral com filtros por categoria. `Next.js 15` · `TypeScript`
-- 💰 **[Projeto Dashboard](https://github.com/marlinhoxz/Projeto-Dashboard)** — Dashboard financeiro com widgets de cartões, transações, orçamento, poupança e empréstimos. Componentizado, com CSS Modules e tipagem forte. `Next.js 16` · `React 19` · `TypeScript`
+-  **[Biblioteca de Jogos](https://github.com/marlinhoxz/biblioteca)** — Biblioteca digital para organizar e visualizar sua coleção de jogos. Modo escuro, navegação fluida com Lenis e menu lateral com filtros por categoria. `Next.js 15` · `TypeScript`
+-  **[Projeto Dashboard](https://github.com/marlinhoxz/Projeto-Dashboard)** — Dashboard financeiro com widgets de cartões, transações, orçamento, poupança e empréstimos. Componentizado, com CSS Modules e tipagem forte. `Next.js 16` · `React 19` · `TypeScript`
 
 
 <br/>
 
-## 🛠️ Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git" height="55" alt="tech stack" />
@@ -36,7 +36,7 @@ Sempre focado em aprender novas ferramentas, resolver problemas reais e acompanh
 
 <br/>
 
-## 🔌 Conectar
+##  Social
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Sempre focado em aprender novas ferramentas, resolver problemas reais e acompanh
 
 <br/>
 
-## 📊 Contribuições
+##  Contribuições
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marlinhoxz&theme=tokyonight&locale=pt_BR&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
