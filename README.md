@@ -24,7 +24,7 @@ Sempre focado em aprender novas ferramentas, resolver problemas reais e acompanh
 
 -  **[Biblioteca de Jogos](https://github.com/marlinhoxz/biblioteca)** — Biblioteca digital para organizar e visualizar sua coleção de jogos. Modo escuro, navegação fluida com Lenis e menu lateral com filtros por categoria. `Next.js 15` · `TypeScript`
 -  **[Projeto Dashboard](https://github.com/marlinhoxz/Projeto-Dashboard)** — Dashboard financeiro com widgets de cartões, transações, orçamento, poupança e empréstimos. Componentizado, com CSS Modules e tipagem forte. `Next.js 16` · `React 19` · `TypeScript`
-
+- **[Projeto Dashboard](https://github.com/marlinhoxz/desafio-Front-end)** - Desafio Front-end — Projeto desenvolvido como desafio de front-end, com foco em componentização, responsividade, gerenciamento de tema e organização de interface. Next.js · React · TypeScript · CSS Modules
 
 <br/>
 
